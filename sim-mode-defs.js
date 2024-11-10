@@ -607,7 +607,7 @@ modifiers: {
 ENV_DEFS[SIM_MODE_Mediterranean].jetstream = {
 modifiers: {
         peakLat: 0.10,
-        antiPeakLat: 0.62,
+        antiPeakLat: 0.65,
         peakRange: 0.40,
         antiPeakRange: 0.85
     }
